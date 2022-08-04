@@ -41,4 +41,4 @@ exclude:
   - node_modules
   - update_boostrap.sh
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
