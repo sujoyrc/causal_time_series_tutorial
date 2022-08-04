@@ -7,7 +7,8 @@ layout: page
 
 ## Tutorial for "Identification of Causal Dependencies in Multivariate Time Series"
 
-* This tutorial will be presented at "Second International Conference on AI-ML Systems" https://www.aimlsystems.org/2022/
+* This tutorial will be presented at "Second International Conference on AI-ML Systems" 
+* Visit here for Conference details - https://www.aimlsystems.org/2022/
 * Watch this space for registration link - "Coming Soon"
 
 ## Abstract
