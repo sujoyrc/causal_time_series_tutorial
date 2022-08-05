@@ -11,6 +11,9 @@ layout: page
 * Visit here for Conference details - https://www.aimlsystems.org/2022/
 * Watch this space for registration link - "Coming Soon"
 
+![correlation](https://user-images.githubusercontent.com/8533584/183008597-249bbcba-e422-45e6-af26-899841adc1ae.png)
+
+
 ## Abstract
 
 Telecommunications networks operate on enormous amount of time-series data, and often exhibit anomalous trends in their behaviour.
