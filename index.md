@@ -40,7 +40,7 @@ and was awarded some of the highest individual honours including the IBM Outstan
 award and the Best of IBM Award. He has 6 filed patents, 8 peer reviewed international conferences including
 two best paper awards and co-authored 2 Harvard Business School case studies
 
-**Serene Banerjee**, _Master Researcher, Ericsson Research_, Bangalore, has 17+ years of industrial experience post
+**Serene Banerjee**, _Master Researcher, Ericsson Research_, Bangalore, has 18+ years of industrial experience post
 completion of her Ph.D. from The Univ. of Texas at Austin, under Prof. Brian L. Evans in 2004. She has a B. Tech.
 (H) in Electronics and Electrical Communications Engineering from IIT Kharagpur in 1999. At Ericsson she is
 focusing on developing AI/ML algorithms for Radio Access Networks. Prior to Ericsson she was with Texas
