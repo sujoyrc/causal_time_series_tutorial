@@ -7,11 +7,14 @@ layout: page
 
 ## Tutorial for "Identification of Causal Dependencies in Multivariate Time Series"
 
-* This tutorial will be presented at "Second International Conference on AI-ML Systems" 
-* Visit here for Conference details - https://www.aimlsystems.org/2022/
-* Watch this space for registration link - "Coming Soon"
+* This tutorial will be presented at [Second International Conference on AI ML Systems](https://www.aimlsystems.org/2022/) 
+* [List of Accepted Tutorials](https://www.aimlsystems.org/2022/accepted_tutorial_list)  -  This tutorial is No. 5 on the list
+* Register for Conference - [Register Here](https://www.aimlsystems.org/2022/registration)
+* Register for Tutorials Only (Complimentary for those registering in conference) [Tutorial Only Registration](https://www.aimlsystems.org/2022/registration_fees_tutorials)
 
 ![correlation](https://user-images.githubusercontent.com/8533584/183008597-249bbcba-e422-45e6-af26-899841adc1ae.png)
+
+Source: [XKCD](https://imgs.xkcd.com/comics/correlation.png)
 
 
 ## Abstract
@@ -103,7 +106,17 @@ advantages and shortcomings for each of these methods
 
 ## Tutorial Details
 
-TBC.  This will have links to slides and code
+### Slides
+
+[Slides](https://github.com/sujoyrc/causal_time_series_tutorial/blob/238611c534f3ec5c2dded1be4db41af4112b9fb4/TutorialContent/Slides/Causal%20Modelling%20on%20Multivariate%20Time%20Series.pdf)
+
+### Demo Code
+
+[Demo Code](https://github.com/sujoyrc/causal_time_series_tutorial/tree/master/TutorialContent/DemoCode)
+
+### Dataset
+
+[Dataset](https://github.com/sujoyrc/causal_time_series_tutorial/tree/master/TutorialContent/DemoCode/Dataset)
 
 ##  References
 
