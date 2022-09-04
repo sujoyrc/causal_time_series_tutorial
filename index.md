@@ -103,7 +103,13 @@ advantages and shortcomings for each of these methods
 
 ## Tutorial Details
 
-TBC.  This will have links to slides and code
+### Slides
+
+https://github.com/sujoyrc/causal_time_series_tutorial/blob/238611c534f3ec5c2dded1be4db41af4112b9fb4/TutorialContent/Slides/Causal%20Modelling%20on%20Multivariate%20Time%20Series.pdf
+
+### Demo Code
+
+https://github.com/sujoyrc/causal_time_series_tutorial/tree/master/TutorialContent/DemoCode
 
 ##  References
 
